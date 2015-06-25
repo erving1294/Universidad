@@ -1,0 +1,50 @@
+body{
+	background-color: #FFF;
+	text-align: center;
+	font-size: 22px;
+}
+
+header{
+	background:#449d44;
+}
+
+h3{
+	color:white;
+}
+
+h2{
+	font-size: 22px;
+}
+
+#form {
+  padding: 10px;
+}
+
+h4{
+	background-color: red;
+	color: white;
+	font-size:20px;
+}
+
+h1, h2{
+	text-align: center;
+}
+
+label{
+	font-size: 18px;
+}
+
+
+.panel{
+	margin-bottom: 0px;
+}
+
+td{
+	text-align: center;
+}
+
+.cabecera{
+	background: rgb(76, 143, 192);
+	color:white;
+	padding: 5px;
+}
